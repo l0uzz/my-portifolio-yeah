@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import StarCanvas from "@/components/main/StarBackground";
+import Navbar from "@/components/main/Navbar";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -20,7 +21,8 @@ export default function RootLayout({
       <body 
         style={{backgroundColor: "#030014"}}
         >
-          <StarCanvas/>
+          <StarCanvas />
+          <Navbar />
           {children}
         </body>
     </html>
