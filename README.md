@@ -27,7 +27,7 @@ To learn more about the project see bellow:
 
 - Built using the technologies: "TypeScript , React , Next and Tailwind"
 
-## Deploy on ...
+## Deploy
 
-coming soon...
+v1.0 Full React Version (no back-end)
 
