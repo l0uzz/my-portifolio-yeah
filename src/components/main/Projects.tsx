@@ -11,17 +11,17 @@ const Projects = () => {
           <ProjectsCards
             src='/MyWebPortifolio.png'
             title='Modern Next.js Portfolio'
-            description='legal'
+            description='Portifolio criado em react para uso Pessoal com o tema Astro em Roxo. Tecnologias Utilizadas : React.Js e TypeScript'
           />
           <ProjectsCards
-            src='/NextWebsite.png'
-            title='Modern'
-            description='dahora'
+            src='/projecttwo.png'
+            title='ShortLinks'
+            description='Simplificar o compartilhamento de URLs. Tecnologias Utilizadas : NODE.JS (TYPESCRIPT), FASTIFY (LIBRARY), ZOD (LIBRARY), POSTGRES & REDIS (SQL), Git e Github'
           />
           <ProjectsCards
-            src='/NextWebsite.png'
-            title='Modern Portfolio'
-            description='bacana'
+            src='/preview.png'
+            title='Nlw - Node.js(Back-End)'
+            description='O Pass.in é uma aplicação de gestão de participantes em eventos presenciais - Utilizando Node.js e React e suas tecnologias'
           />
         </div>
     </div>
